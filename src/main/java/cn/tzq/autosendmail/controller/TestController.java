@@ -42,7 +42,7 @@ public class TestController {
         } catch (InvalidFormatException e) {
             e.printStackTrace();
         }
-        return "邮件发送中。";
+        return "邮件发送完毕。";
     }
 
 
